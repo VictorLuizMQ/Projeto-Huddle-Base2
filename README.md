@@ -1,1 +1,1 @@
-# Coloquem informações do projeto aqui!
+Projeto de uma página simples da web desenvolvido em HTML e CSS utilizando os conceitos de flexbox. Contém a versão para desktop e a versão responsiva para mobile.
